@@ -5,4 +5,4 @@ Analysis pipeline for probing parity-violation with the 4-point correlation func
 Note that the main analysis was performed blindly, *i.e.* the analysis pipeline and plotting routines were all created before the data was revealed. The associated notebook was run only once after unblinding, to create the output results.
 
 ### Authors
-- [Oliver Philcox](ohep2@cantab.ac.uk) (Princeton / Institute for Advanced Study)
+- [Oliver Philcox](mailto:ohep2@cantab.ac.uk) (Princeton / Institute for Advanced Study)
