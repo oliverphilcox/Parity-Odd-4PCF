@@ -1,5 +1,5 @@
 ### Compute the Odd-Parity 4PCF arising from the cosmological collider as in Cabass+22
-# The output contains the 4PCF multiplets, but without a prefactor of cs^4 lambda_1 lambda_3 sin pi(nu+1/2)/(4H)
+# The output contains the 4PCF multiplets, but without a prefactor of cs^4 lambda_1 lambda_3 sin pi(nu+1/2)/H
 
 import sys
 sys.path.append('/home/ophilcox/wigxjpf-1.11/')
